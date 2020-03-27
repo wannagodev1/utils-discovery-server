@@ -47,7 +47,7 @@
       <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
 
       <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
-    <spring-data.version>Moore-SR6</spring-data.version>
+      <spring-data.version>Moore-SR6</spring-data.version>
 
       <spring-boot-admin.version>2.2.2</spring-boot-admin.version>
 
