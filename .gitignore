@@ -2,4 +2,5 @@
 log/
 target/
 
+*.iml
 outdated-dependencies.txt
