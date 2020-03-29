@@ -21,7 +21,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="shared-commons" />
-    <orderEntry type="module" module-name="shared-dto (1) (org.wannagoframework)" />
+    <orderEntry type="module" module-name="shared-dto" />
     <orderEntry type="library" name="Maven: org.springframework.security:spring-security-oauth2-core:5.2.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.2.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.2.4.RELEASE" level="project" />
